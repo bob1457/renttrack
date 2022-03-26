@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <h1 className="test">
+            Hello world...tailwind.css!
+          </h1>
       </header>
     </div>
   );
